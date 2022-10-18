@@ -1,0 +1,6 @@
+-Iinclude/
+-Wall
+-Wextra
+-Werror
+-ansi
+-pedantic
